@@ -157,6 +157,6 @@
             </div>
            <?php include('side_info.php')?>
         </div>
-        <?php include('footer.php')?>
+       
     </body>
 </html>
